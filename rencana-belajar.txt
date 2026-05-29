@@ -1,0 +1,4 @@
+Rencana belajar
+
+- belajar framework javascript
+- buat project dengan framework javascript
