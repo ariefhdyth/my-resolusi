@@ -3,3 +3,4 @@ Rencana sekarang dan kedepannya
 - belajar git & github
 - buat project kecil
 - up project
+- teesss
