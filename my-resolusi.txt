@@ -2,3 +2,4 @@ Rencana sekarang dan kedepannya
 - belajar fundamental javascript
 - belajar git & github
 - buat project kecil
+- up project
