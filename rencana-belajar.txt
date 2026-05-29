@@ -2,4 +2,5 @@ Rencana belajar
 
 - belajar framework javascript
 * react
+* vue
 - buat project dengan framework javascript
