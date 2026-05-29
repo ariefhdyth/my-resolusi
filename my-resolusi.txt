@@ -1,0 +1,3 @@
+Rencana sekarang dan kedepannya
+- belajar fundamental javascript
+- belajar git & github
