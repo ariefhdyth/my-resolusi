@@ -1,4 +1,5 @@
 Rencana belajar
 
 - belajar framework javascript
+* react
 - buat project dengan framework javascript
